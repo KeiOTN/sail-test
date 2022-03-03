@@ -1,6 +1,11 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\HelloController;
+use App\Http\Controllers\GoodMorningController;
+use App\Http\Controllers\GoodNightController;
+use App\Http\Controllers\ThankYouController;
+
 
 /*
 |--------------------------------------------------------------------------
